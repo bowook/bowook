@@ -8,7 +8,7 @@
       <img align="right" width=385 src="http://github-readme-streak-stats.herokuapp.com?user=bowook&hide_border=true&theme=black-ice" alt="" />
     </a>
   </div>
-![snake gif](https://github.com/wook/wook/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/bowook/bowook/blob/output/github-contribution-grid-snake.svg)
 <br><br><br><br><br><br><br><br>
 <!---
 bowook/bowook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
