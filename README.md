@@ -9,7 +9,6 @@
     </a>
   </div>
 <img src="https://github.com/bowook/bowook/blob/output/github-contribution-grid-snake.svg"/>
----
 <br><br><br><br><br><br><br><br>
 <!---
 bowook/bowook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
