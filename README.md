@@ -1,10 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=HI!👋%20I%20AM%20BOWOOK!&fontSize=48" alt="header" style="width: 100%;">
 <hr/>
+
 ## Hi there 👋
 
 Welcome to my page‼️
 <br>
 I'm bowook, who wants to become a <b>backend developer</b>.
+
 <hr/>
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
