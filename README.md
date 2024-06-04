@@ -22,12 +22,17 @@ I'm bowook, who wants to become a <b>backend developer</b>.
 <hr/>
 
 ### 🏆 Award
-1. 관광데이터 활용 공모전 - 장려상
+관광데이터 활용 공모전 - 장려상
 <hr/>
 
 ### 🗂 Release Project
-1. [우리나라 주사위 여행 - 우주여행](https://play.google.com/store/apps/details?id=going_space.space_travel&pcampaignid=web_share)
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android Badge" style="height: 30px;"/>
+<p>
+  <a href="https://play.google.com/store/apps/details?id=going_space.space_travel&pcampaignid=web_share">우리나라 주사위 여행 - 우주여행</a>
+</p>
 <hr/>
+
+
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" style="width: 100%;">
