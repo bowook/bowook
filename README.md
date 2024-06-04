@@ -6,7 +6,7 @@ Welcome to my page‼️
 <br>
 I'm bowook, who wants to become a <b>backend developer</b>.
 ---
-<div style="display: flex; flex-direction: row; flex-wrap: nowrap; align-items: flex-start; width: 100%;">
+<div style="display: flex; flex-direction: row; flex-wrap: nowrap; align-items: flex-start; width: 50%;">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" style="width: 50%; display: block;">
     <img width="100%" style="max-width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=bowook&show_icons=true&theme=dark&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
   </a>
