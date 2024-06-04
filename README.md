@@ -7,12 +7,12 @@ Welcome to my page‼️
 I'm bowook, who wants to become a <b>backend developer</b>.
 <hr/>
 
-<div style="display: flex; align-items: flex-start;">
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img width=50% src="https://github-readme-stats.vercel.app/api?username=bowook&show_icons=true&theme=dark&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" style="width: 100%;">
+    <img style="width: 49%; height: 200px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=bowook&show_icons=true&theme=dark&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
   </a>
-  <a href="https://git.io/streak-stats" title="Go to Source">
-    <img width=50% src="http://github-readme-streak-stats.herokuapp.com?user=bowook&hide_border=true&theme=black-ice" alt="" />
+  <a href="https://git.io/streak-stats" title="Go to Source" style="width: 100%;">
+    <img style="width: 49%; height: 200px; object-fit: contain;" src="http://github-readme-streak-stats.herokuapp.com?user=bowook&hide_border=true&theme=black-ice" alt="" />
   </a>
 </div>
 
