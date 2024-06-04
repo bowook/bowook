@@ -29,7 +29,7 @@ I'm bowook, who wants to become a <b>backend developer</b>.
   </a>
 </div>
 
-<img src="https://github.com/bowook/bowook/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/bowook/bowook/blob/output/github-contribution-grid-snake.svg" style="width: 100%;" alt="GitHub Contribution Grid Snake"/>
 <br><br><br><br><br><br><br><br>
 <!---
 bowook/bowook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
