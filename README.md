@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=HI!👋%20I%20AM%20BOWOOK!&fontSize=48" alt="header" style="width: 100%;">
-<hr/>
 
 ## Hi there 👋
 
@@ -20,12 +19,14 @@ I'm bowook, who wants to become a <b>backend developer</b>.
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-### 🏆 Award
-
 <hr/>
 
-### 🗂 My Project
+### 🏆 Award
+1. 관광데이터 활용 공모전 - 장려상
+<hr/>
 
+### 🗂 Release Project
+1. [우리나라 주사위 여행 - 우주여행](https://play.google.com/store/apps/details?id=going_space.space_travel&pcampaignid=web_share)
 <hr/>
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
