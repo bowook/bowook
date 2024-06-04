@@ -7,6 +7,13 @@
       <img align="right" width=385 src="http://github-readme-streak-stats.herokuapp.com?user=bowook&hide_border=true&theme=black-ice" alt="" />
     </a>
   </div>
+---
+## Hi there 👋
+
+Welcome to my page😍‼️
+---
+<br>
+I'm Jung won, who wants to become a <b>backend developer</b>.
 <img src="https://github.com/bowook/bowook/blob/output/github-contribution-grid-snake.svg"/>
 <br><br><br><br><br><br><br><br>
 <!---
