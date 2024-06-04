@@ -9,10 +9,10 @@ I'm bowook, who wants to become a <b>backend developer</b>.
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img width=50% height=100% src="https://github-readme-stats.vercel.app/api?username=bowook&show_icons=true&theme=dark&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
+    <img width=49% height=300 src="https://github-readme-stats.vercel.app/api?username=bowook&show_icons=true&theme=dark&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
   </a>
   <a href="https://git.io/streak-stats" title="Go to Source">
-    <img width=50% height=100% src="http://github-readme-streak-stats.herokuapp.com?user=bowook&hide_border=true&theme=black-ice" alt="" />
+    <img width=49% height=300 src="http://github-readme-streak-stats.herokuapp.com?user=bowook&hide_border=true&theme=black-ice" alt="" />
   </a>
 </div>
 
