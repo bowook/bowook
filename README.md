@@ -1,11 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=HI!👋%20I%20AM%20BOWOOK!&fontSize=48" alt="header" style="width: 100%;">
----
+#
 ## Hi there 👋
 
 Welcome to my page‼️
 <br>
 I'm bowook, who wants to become a <b>backend developer</b>.
----
+#
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img width=49% height=80% src="https://github-readme-stats.vercel.app/api?username=bowook&show_icons=true&theme=dark&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
@@ -16,7 +16,7 @@ I'm bowook, who wants to become a <b>backend developer</b>.
 </div>
 
 
----
+#
 
 <img src="https://github.com/bowook/bowook/blob/output/github-contribution-grid-snake.svg"/>
 <br><br><br><br><br><br><br><br>
