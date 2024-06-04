@@ -10,7 +10,7 @@ I'm bowook, who wants to become a <b>backend developer</b>.
 <hr/>
 
 ### ⚒ My Tech Stack
-<br>
+
 #### ⭐️ used as the main
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
