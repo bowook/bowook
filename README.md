@@ -8,13 +8,13 @@ I'm bowook, who wants to become a <b>backend developer</b>.
 ---
 <div style="display: flex; flex-direction: row; flex-wrap: nowrap; align-items: flex-start; width: 100%;">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" style="width: 50%; display: block;">
-    <img width="100%" style="max-width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=bowook&show_icons=true&theme=dark&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
+    <img width="50%" style="max-width: 50%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=bowook&show_icons=true&theme=dark&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
   </a>
   <a href="https://git.io/streak-stats" title="Go to Source" style="width: 50%; display: block;">
-    <img width="100%" style="max-width: 100%; height: auto;" src="http://github-readme-streak-stats.herokuapp.com?user=bowook&hide_border=true&theme=black-ice" alt="" />
+    <img width="50%" style="max-width: 50%; height: auto;" src="http://github-readme-streak-stats.herokuapp.com?user=bowook&hide_border=true&theme=black-ice" alt="" />
   </a>
 </div>
-
+---
 
 <img src="https://github.com/bowook/bowook/blob/output/github-contribution-grid-snake.svg"/>
 <br><br><br><br><br><br><br><br>
