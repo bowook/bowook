@@ -18,6 +18,7 @@ I'm bowook, who wants to become a <b>backend developer</b>.
 ![Java](https://img.shields.io/badge/-Java-4B4B77?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&&logo=AndroidStudio&logoColor=white)
 
 <hr/>
 
