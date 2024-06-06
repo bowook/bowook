@@ -27,7 +27,6 @@ I'm bowook, who wants to become a <b>backend developer</b>.
 <hr/>
 
 ### 🗂 Release Project
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android Badge" style="height: 30px;"/>
 <p>
   <a href="https://play.google.com/store/apps/details?id=going_space.space_travel&pcampaignid=web_share">우리나라 주사위 여행 - 우주여행</a>
 </p>
