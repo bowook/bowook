@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=HI!👋%20I%20AM%20BOWOOK!&fontSize=48" alt="header" style="width: 100%;">
 
-## Hi there 👋
+## Hi  there 👋
 
 Welcome to my page‼️
 <br>
