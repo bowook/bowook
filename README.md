@@ -2,17 +2,15 @@
 
 <div align="center">
 
-# Hi there! 👋
-Welcome to my page!  
-I'm **Bowook**, aspiring to become a **Backend Developer**.
+# Welcome! 😃 
 
-</div>
+I’m Bowook, a student aspiring to become a Backend Developer.
 
-<hr/>
+I chose this path because I enjoy solving problems, love thinking, and find communication fascinating!
+
+<br/><br/>
 
 ## ⚒ Tech Stack
-
-<div align="center">
 
 ### ⭐️ Main Skills
 
@@ -24,22 +22,28 @@ I'm **Bowook**, aspiring to become a **Backend Developer**.
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&&logo=AndroidStudio&logoColor=white)
 
-</div>
-
-<hr/>
+<br/><br/>
 
 ## 🏆 Awards
-- **관광데이터 활용 공모전** - 장려상
 
-<hr/>
+**1. 관광데이터 활용 공모전** - 장려상
+
+<br/>
+
+## 📝 Certifications
+
+**1. SQLD**
+
+
+**2. 정보처리기사**
+
+<br/>
 
 ## 🗂 Released Projects
 
-- [**우리나라 주사위 여행 - 우주여행**](https://play.google.com/store/apps/details?id=going_space.space_travel&pcampaignid=web_share)
+**1. [**우리나라 주사위 여행 - 우주여행**](https://play.google.com/store/apps/details?id=going_space.space_travel&pcampaignid=web_share)**
 
-<hr/>
-
-<div align="center">
+<br/><br/>
 
 ## 📊 GitHub Stats
 
@@ -47,22 +51,14 @@ I'm **Bowook**, aspiring to become a **Backend Developer**.
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bowook&theme=github" alt="GitHub Stats" />  
 <img src="https://raw.githubusercontent.com/yesaroun/yesaroun/main/profile-summary-card-output/github/4-productive-time.svg" alt="Productive Time" />
 
-</div>
-
-<hr/>
-
-<div align="center">
+<br/><br/>
 
 ### 🐾 My GitAnimals
+
 <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/bowook" alt="gitanimals" />
 </a>
 
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
 </div>
-
-<br><br><br><br><br><br><br><br>
-
-<!---
-bowook/bowook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
