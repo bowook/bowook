@@ -1,16 +1,20 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=HI!👋%20I%20AM%20BOWOOK!&fontSize=48" alt="header" style="width: 100%;">
 
-## Hi  there 👋
+<div align="center">
 
-Welcome to my page‼️
-<br>
-I'm bowook, who wants to become a <b>backend developer</b>.
+# Hi there! 👋
+Welcome to my page!  
+I'm **Bowook**, aspiring to become a **Backend Developer**.
+
+</div>
 
 <hr/>
 
-### ⚒ My Tech Stack
+## ⚒ Tech Stack
 
-#### ⭐️ used as the main
+<div align="center">
+
+### ⭐️ Main Skills
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -20,31 +24,44 @@ I'm bowook, who wants to become a <b>backend developer</b>.
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&&logo=AndroidStudio&logoColor=white)
 
-<hr/>
-
-### 🏆 Award
-관광데이터 활용 공모전 - 장려상
-<hr/>
-
-### 🗂 Release Project
-<p>
-  <a href="https://play.google.com/store/apps/details?id=going_space.space_travel&pcampaignid=web_share">우리나라 주사위 여행 - 우주여행</a>
-</p>
-<hr/>
-
-
-
-<div style="display: flex; flex-direction: column; align-items: flex-start;">
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" style="width: 100%;">
-    <img style="width: 47%;object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=bowook&show_icons=true&theme=dark&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
-  </a>
-  <a href="https://git.io/streak-stats" title="Go to Source" style="width: 100%;">
-    <img style="width: 50%;object-fit: contain;" src="http://github-readme-streak-stats.herokuapp.com?user=bowook&hide_border=true&theme=black-ice" alt="" />
-  </a>
 </div>
 
-<img src="https://github.com/bowook/bowook/blob/output/github-contribution-grid-snake.svg" style="width: 100%;" alt="GitHub Contribution Grid Snake"/>
+<hr/>
+
+## 🏆 Awards
+- **관광데이터 활용 공모전** - 장려상
+
+<hr/>
+
+## 🗂 Released Projects
+
+- [**우리나라 주사위 여행 - 우주여행**](https://play.google.com/store/apps/details?id=going_space.space_travel&pcampaignid=web_share)
+
+<hr/>
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bowook&theme=github" alt="GitHub Profile Details" />  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bowook&theme=github" alt="GitHub Stats" />  
+<img src="https://raw.githubusercontent.com/yesaroun/yesaroun/main/profile-summary-card-output/github/4-productive-time.svg" alt="Productive Time" />
+
+</div>
+
+<hr/>
+
+<div align="center">
+
+### 🐾 My GitAnimals
+<a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/bowook" alt="gitanimals" />
+</a>
+
+</div>
+
 <br><br><br><br><br><br><br><br>
+
 <!---
 bowook/bowook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
