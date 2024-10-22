@@ -29,6 +29,12 @@ I chose this path because I enjoy solving problems, love thinking, and find comm
 
   **1. 관광데이터 활용 공모전** - 장려상
 
+  
+  **2. 메타버스 경진대회** - 장려상
+
+  
+  **3. 게임개발 경진대회** - 은상
+
   <br/>
 
   ## 📝 Certifications
